@@ -22,7 +22,7 @@
 //  THE SOFTWARE.
 //
 
-import Alamofire
+import Alamofire4
 import Foundation
 import UIKit
 
